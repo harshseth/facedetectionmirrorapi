@@ -1,0 +1,6 @@
+{
+  "name": "Face detection QA for Visually impaired",
+  "tagline": "Detects faces and describes features of people that surround the visually impaired user.",
+  "body": "Face detection plus\r\n========================\r\n\r\n\r\n\r\n## License\r\nCode for this project is licensed under [APL 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)\r\nand content is licensed under the\r\n[Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).\r\n\r\ns\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
